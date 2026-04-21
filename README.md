@@ -1,5 +1,5 @@
 # Installation
-Installieren Sie erst [https://www.python.org/](Python) und fügen sie es zu PATH hinzu.
+Installieren Sie erst [Python](https://www.python.org/) und fügen sie es zu PATH hinzu.
 Dann mussen Sie auch ```pyttsx3``` durch ```pip instal pyttsx3``` herunterladen
 # Übrigens
 Ich hab das sehr schnell gemacht (um nicht zu sagen, dass ich kein Informatiker oder so bin), also kann man hier viele Dinge sicherlich berbessern.<br>
